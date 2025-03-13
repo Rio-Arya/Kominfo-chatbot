@@ -12,7 +12,16 @@ A simple Streamlit app that shows how to build a chatbot using OpenAI's GPT-3.5.
    $ pip install -r requirements.txt
    ```
 
-2. Run the app
+2. Setup API Keys
+
+   ```
+   $ export PINECONE_API_KEY="your_pinecone_api_key"
+   ```
+   ```
+   export HUGGINGFACE_TOKEN="your_huggingface_token"
+   ```
+
+3. Run the app
 
    ```
    $ streamlit run streamlit_app.py
