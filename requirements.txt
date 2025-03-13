@@ -1,2 +1,14 @@
 streamlit
-openai
+huggingface_hub
+sentence_transformers
+pinecone
+transformers
+numpy
+torch
+accelerate
+google-api-python-client
+google-auth
+google-auth-oauthlib
+python-pptx
+python-docx
+pypdf2
